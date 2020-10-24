@@ -1,6 +1,6 @@
-﻿namespace Course.Entities
+﻿namespace Heranca.Entities
 {
-    class BusinessAccount : Account
+    sealed class BusinessAccount : Account
     {
         public double LoanLimit { get; set; }
 

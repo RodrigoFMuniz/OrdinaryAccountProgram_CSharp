@@ -1,7 +1,7 @@
 ﻿using System;
-using Course.Entities;
+using Heranca.Entities;
 
-namespace Course
+namespace Heranca
 {
     class Program
     {
